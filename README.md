@@ -51,15 +51,18 @@ wits.worldbank.org **[United States Food Products Imports by country in US$ Thou
 
 ## Data Questions
 
-U.S. Spent on food imports over the years
+•	U.S. Spent on food imports over the years.
 
-Component Total Food Import chart
+•	Component Total U.S. Food Import value and volume across diverse food groups.
 
-Average U.S food import volume across diverse food groups
+•	U.S. Annual food inflation over the years.
 
-Average food inflation over the years.
+•	Population vs total food import.
 
-Population and total food import.
+•	Top 10 U.S.  food import countries.
+
+•	U.S. food import trend by country over the years.
+
 
 At least 20 years of annual data are included, enabling to track long-term growth patterns.
 

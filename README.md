@@ -17,11 +17,9 @@
 For my capstone project I’d like to analyze U.S. food import trend-based amount spent, volume and effect of growing population, inflation and recession. At least 20 years of annual data are included, enabling users to track long-term growth patterns.
 
 ## Motivation
+I'm excited about this project on U.S. food imports because I'm curious about where our food comes from and how it has changed over time, especially considering inflation. I want to explore why the prices of different foods vary and what role inflation plays in this. It's like a journey into the history of our food and understanding why some things cost more now than they did before.
 
-I wanted to discover the story behind what we spend on importing food. Understand how the number of people and the total food we import are connected. Explore the favorite foods with the Top 10 Food Imports, and learn about the rising or falling prices with Food Inflation. 
-
-
-## Technologies Used
+ ## Technologies Used
 
 ### Python
 -	Jupyter Notebooks
@@ -91,4 +89,4 @@ Webscrape usinflationcalculator.com using python and Beautiful soup. Collected c
 
 
 ## Link To Dashboard
-- Power BI Public: **[US Food Import Analysis](https://powerbi.com)**<br>
+- Power BI Public: **[US Food Import Analysis](https://app.powerbi.com/view?r=eyJrIjoiNjEwMzcyMWMtOTZlOC00MDk0LWJhMDUtNWQ1MWFjZDgzNjI4IiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9)**<br>
